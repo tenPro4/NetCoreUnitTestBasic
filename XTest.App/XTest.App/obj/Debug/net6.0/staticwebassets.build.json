@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "qblhLOa6JjXDxr624J9g53mywdRnwdzbb+p13c70tGA=",
+  "Source": "XTest.App",
+  "BasePath": "_content/XTest.App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "XTest.App\\wwwroot",
+      "Source": "XTest.App",
+      "ContentRoot": "C:\\Users\\SA-BD-40\\Desktop\\DMA209\\XTest.App\\XTest.App\\wwwroot\\",
+      "BasePath": "_content/XTest.App",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

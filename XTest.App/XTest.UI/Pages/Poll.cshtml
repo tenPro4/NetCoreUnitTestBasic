@@ -1,0 +1,20 @@
+﻿@page "{id}"
+@model XTest.UI.Pages.PollModel
+@{
+}
+
+
+    <div>
+        <h1>@Model.Statistics.Title</h1>    
+        <h2>@Model.Statistics.Description</h2>
+
+        @foreach(var counter in Model.Statistics.Counters)
+        {
+            <p>@counter.Name - @counter.Count - @counter.Percent</p>
+            <form method="post">
+                @Html.AntiForgeryToken()
+                <input type="hidden" name="counterId" value="@counter.Id" />
+                <button type="submit">Vote</button>
+            </form>
+        }
+    </div>

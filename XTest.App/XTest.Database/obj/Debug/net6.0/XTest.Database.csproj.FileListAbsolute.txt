@@ -1,0 +1,14 @@
+C:\Users\SA-BD-40\Desktop\DMA209\XTest.App\XTest.Database\bin\Debug\net6.0\XTest.Database.deps.json
+C:\Users\SA-BD-40\Desktop\DMA209\XTest.App\XTest.Database\bin\Debug\net6.0\XTest.Database.dll
+C:\Users\SA-BD-40\Desktop\DMA209\XTest.App\XTest.Database\bin\Debug\net6.0\XTest.Database.pdb
+C:\Users\SA-BD-40\Desktop\DMA209\XTest.App\XTest.Database\obj\Debug\net6.0\XTest.Database.csproj.AssemblyReference.cache
+C:\Users\SA-BD-40\Desktop\DMA209\XTest.App\XTest.Database\obj\Debug\net6.0\XTest.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SA-BD-40\Desktop\DMA209\XTest.App\XTest.Database\obj\Debug\net6.0\XTest.Database.AssemblyInfoInputs.cache
+C:\Users\SA-BD-40\Desktop\DMA209\XTest.App\XTest.Database\obj\Debug\net6.0\XTest.Database.AssemblyInfo.cs
+C:\Users\SA-BD-40\Desktop\DMA209\XTest.App\XTest.Database\obj\Debug\net6.0\XTest.Database.csproj.CoreCompileInputs.cache
+C:\Users\SA-BD-40\Desktop\DMA209\XTest.App\XTest.Database\obj\Debug\net6.0\XTest.Database.dll
+C:\Users\SA-BD-40\Desktop\DMA209\XTest.App\XTest.Database\obj\Debug\net6.0\refint\XTest.Database.dll
+C:\Users\SA-BD-40\Desktop\DMA209\XTest.App\XTest.Database\obj\Debug\net6.0\XTest.Database.pdb
+C:\Users\SA-BD-40\Desktop\DMA209\XTest.App\XTest.Database\obj\Debug\net6.0\ref\XTest.Database.dll
+C:\Users\SA-BD-40\Desktop\DMA209\XTest.App\XTest.Database\bin\Debug\net6.0\XTest.Database.runtimeconfig.json
+C:\Users\SA-BD-40\Desktop\DMA209\XTest.App\XTest.Database\obj\Debug\net6.0\XTest.Database.genruntimeconfig.cache
